@@ -1,0 +1,2 @@
+# NanoHanziChecker
+由WFG制作的检字工具改编成的多语言检字工具
